@@ -1,5 +1,5 @@
 ---
-title: "Keeping Your Projects on GitHub After You Graduate From The Bootcamp"
+title: "Keeping Your Projects on GitHub After You Graduate From The Bootcamp" (Gabe_was_here)
 subtitle: "Maximize the Value of your Projects and Highlight your Professional Profile through GitHub After Graduating from the 4Geeks Academy Bootcamp"
 tags: ["4geeks", "github"]
 authors: ["Lorenagubaira"]
